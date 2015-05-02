@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 	echo 'Esto es una prueba' ; // Esto es un comentario
 	/* Esta es otra línea de comentario
 	   que continúa aquí

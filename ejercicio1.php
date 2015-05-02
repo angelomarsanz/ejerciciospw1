@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 
 // Mi primer programa PHP
 

@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 	<html lang="es">
 		<body>
 			<p>Este texto de HTML está fuera de las etiquetas de PHP, por lo tanto es ignorado por el analizador de PHP</p>
